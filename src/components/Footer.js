@@ -128,19 +128,19 @@ const Footer = () => {
             {authorName} © {new Date().getFullYear()}
           </h3>
           <p className="footer-item-text">
-            Built with{' '}
-            <a className="footer-link" href="https://www.gatsbyjs.org">
-              Gatsby
+            Мы в {' '}
+            <a className="footer-link" href="https://vk.com/agarbatibeat">
+              Вконтакте
             </a>
             .
           </p>
           <p className="footer-item-text">
-            Theme using{' '}
+          Мы работаем{' '}
             <a
               className="footer-link"
-              href="https://github.com/maxpou/gatsby-starter-morning-dew"
+              href="https://vk.com/bypsy"
             >
-              gatsby-starter-morning-dew
+              с оптовыми и розничными клиентами
             </a>
             .
           </p>

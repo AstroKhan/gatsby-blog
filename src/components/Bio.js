@@ -70,7 +70,7 @@ const Bio = () => {
         />
       </figure>
       <section>
-        <h4>About the author</h4>
+        <h4>About the company</h4>
         <BioText dangerouslySetInnerHTML={{ __html: authorDescription }} />
       </section>
     </BioWrapper>
